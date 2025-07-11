@@ -16,3 +16,9 @@ This project is a Python-based data visualization dashboard that fetches 5-day w
 Command to run this file (using terminal): python m- streamlit run task1.py
 
 This will redirect to your Web browser
+
+OUTPUT:
+
+<img width="949" height="375" alt="Image" src="https://github.com/user-attachments/assets/ee3337b9-dc85-4966-be20-8b29987eb988" />
+
+<img width="797" height="819" alt="Image" src="https://github.com/user-attachments/assets/6599d6e2-d2f0-4d4f-afa6-e62af00ee3e2" />
