@@ -4,10 +4,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
 
-# Set your API key here
-API_KEY = 'b707e6168fe3847e7698ee3519453904'  # Replace with your OpenWeatherMap API key
+API_KEY = 'b707e6168fe3847e7698ee3519453904' 
 
-# UI Input
 st.title("Weather Data Visualizer")
 city = st.text_input("Enter a city name", "Hyderabad")
 
